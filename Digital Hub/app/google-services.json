@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "189591384062",
+    "project_id": "jbas-college-dd415",
+    "storage_bucket": "jbas-college-dd415.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189591384062:android:d1178bb24b8ae9b9355aaf",
+        "android_client_info": {
+          "package_name": "com.harshini.jbasadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189591384062-jjkpj59fnob4lqbbh4de32gf8000r6nj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7wzOOQPYNH_j_LJsKO3eqb0oV4_efy2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189591384062-jjkpj59fnob4lqbbh4de32gf8000r6nj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
